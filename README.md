@@ -1,2 +1,2 @@
 # hello-world
-Trying this out
+Learning to code, training for a marathon
